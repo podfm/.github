@@ -1,4 +1,4 @@
-# Grand Ambitions
+# Tropical Heat
 
 This organization is set up to explore different technologies for building applications. 
 
