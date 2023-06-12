@@ -1,6 +1,6 @@
-# Pod FM
+# Grand Ambitions
 
-This organization is set up to explore different technologies for building a podcast app. 
+This organization is set up to explore different technologies for building applications. 
 
 ## Frontend
 
